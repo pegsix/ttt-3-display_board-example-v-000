@@ -11,4 +11,3 @@ def display_board
   puts row_4
   puts row_5
 end
-
